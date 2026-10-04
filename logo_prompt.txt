@@ -1,0 +1,32 @@
+Crea un logo/ícono para incrustar en el centro de un código QR.
+
+=== REQUISITOS TÉCNICOS (no modificar) ===
+- Tamaño: 200x200 píxeles
+- Formato: PNG con fondo transparente (canal alfa)
+- Contraste: alto contra fondo blanco
+- Complejidad: mínima — debe ser reconocible a 80px
+- Sin texto pequeño, detalles finos ni degradados sutiles
+- Estilo: flat design, bordes limpios
+
+=== PERSONALIZACIÓN (editá según tu necesidad) ===
+
+Tema/marca: [describí qué representa — ej: cafetería, tienda tech, perfil personal]
+
+Elemento central: [qué aparece en el ícono — ej: taza de café, letra "K", candado, carrito de compras]
+
+Color principal: [color dominante — ej: #FF6600, rojo, azul marino]
+
+Color secundario: [opcional — para acentos o el elemento central]
+
+Forma contenedora: [círculo / cuadrado redondeado / hexágono / ninguna]
+
+Estilo visual: [minimalista / line-art / sólido / pixel-art]
+
+=== EJEMPLO DE USO COMPLETADO ===
+
+Tema/marca: Panadería artesanal "Pan & Masa"
+Elemento central: croissant estilizado
+Color principal: #D4831A (dorado pan)
+Color secundario: #FFFFFF (blanco para el croissant)
+Forma contenedora: círculo
+Estilo visual: sólido minimalista

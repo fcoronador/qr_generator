@@ -1,0 +1,16 @@
+[project]
+name = "qr-generador"
+version = "0.1.0"
+description = "Generador de códigos QR personalizados con módulos redondeados, logo centrado y título."
+requires-python = ">=3.14"
+dependencies = [
+    "qrcode[pil]>=8.0",
+    "pillow>=11.0",
+    "ipykernel>=7.3.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter>=1.0",
+    "ipykernel>=6.29",
+]
